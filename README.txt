@@ -1,5 +1,5 @@
 In the dic.txt file are listed all the words which will be inserted in the tree.
-In the entrada.file are listed all the words which will be compared to the ones inserted in the tree.]
+In the entrada.file are listed all the words which will be compared to the ones inserted in the tree.
 
 Sequence of actions:
 make clean
